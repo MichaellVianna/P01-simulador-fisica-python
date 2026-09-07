@@ -2,6 +2,11 @@
 
 Status: ✅ Concluído
 
+**Nº 1 de 49 na ordem de execução.** ID do projeto: P01.
+
+**Cursos da Alura a fazer antes deste projeto (todos os que caem aqui na ordem das 4 carreiras):**
+- CD/Base-01 a 03 — lógica de programação e Python para dados (primeiros passos, funções e estruturas)
+
 ## Sinopse
 O ponto de partida da jornada. Este projeto usa Python para simular três fenômenos físicos simples que aparecem em processos industriais: queda livre, resfriamento de um material (Lei de Newton do resfriamento) e a oscilação de um sensor de pressão com ruído de medição. O objetivo não foi criar um simulador complexo, mas aprender a pensar em dados como representações de fenômenos reais, escrever funções reutilizáveis e organizar um projeto Python do zero.
 
@@ -29,10 +34,10 @@ Simulação de um sinal periódico (sensor de pressão oscilando) e da leitura c
 - Escrever funções Python reutilizáveis e documentadas, com parâmetros e valores padrão.
 - Usar `numpy` para gerar e manipular arrays de forma vetorizada (sem laços manuais).
 - Usar `matplotlib` para visualizar e salvar gráficos.
-- A diferença entre **sinal** (o fenômeno físico real) e **medição** (o que um sensor de fato registra, com ruído) — uma ideia central que vai reaparecer em praticamente todo projeto a partir do P03, quando os dados passam a vir de sensores reais.
+- A diferença entre **sinal** (o fenômeno físico real) e **medição** (o que um sensor de fato registra, com ruído) — uma ideia central que vai reaparecer em praticamente todo projeto a partir do nº 3, quando os dados passam a vir de sensores reais.
 
 ## Próximo passo
-**P02 — Banco de dados de experimentos físicos**: os dados simulados aqui vão ganhar um lugar pra serem armazenados e consultados, como aconteceria num laboratório ou numa fábrica de verdade.
+**Nº 2 — Banco de dados de experimentos físicos**: os dados simulados aqui vão ganhar um lugar pra serem armazenados e consultados, como aconteceria num laboratório ou numa fábrica de verdade.
 
 ## Estrutura
 - `notebooks/` — notebook Jupyter (VSCode) deste projeto: [`P01_simulador_fisica.ipynb`](notebooks/P01_simulador_fisica.ipynb)
