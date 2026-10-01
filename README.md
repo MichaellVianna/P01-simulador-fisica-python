@@ -1,6 +1,6 @@
 # P01. Simulador de física no Python
 
-**Nº 1 de 49 na ordem de execução.** ID do projeto: P01.
+**Nº 1 de 48 na ordem de execução.** ID do projeto: P01.
 
 **Cursos da Alura a fazer antes deste projeto (todos os que caem aqui na ordem das 4 carreiras):**
 - CD/Base-01 a 03 - lógica de programação e Python para dados (primeiros passos, funções e estruturas)
